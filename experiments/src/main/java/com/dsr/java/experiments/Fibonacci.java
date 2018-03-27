@@ -23,7 +23,7 @@ public class Fibonacci {
 	public static void main(String[] args) {
 		// with loop
 		long startTime = System.nanoTime();
-		loopImmp(10);
+		loopFibonacci(10);
 		System.out.println("time taken by loop method "+ (System.nanoTime() - startTime));
 
 		// recursion
@@ -45,7 +45,7 @@ public class Fibonacci {
 	/*
 	 * Using while loop. input = 10 output = 0 1 1 2 3 5 8
 	 */
-	static void loopImmp(int n) {
+	static void loopFibonacci(int n) {
 		int first = 0;
 		int second = 1;
 		System.out.println(first + "\n " + second);

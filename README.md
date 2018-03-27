@@ -14,4 +14,19 @@ Three implementations
 3. Using memoization.(Technique to improve speed of
    computation by storing complex calculation results)
    
+PRIME NUMBER
+
+Prime number is number which is only divisible by 1 and itself.
+eg : 2,3, 5, 7 , 11, ...
+
+Implementation class : PrimeNumber.java
+
+1. Check if number is divisible by each number from 2 to number -1;
+2. Check if number is divisible by 2, if yes , it is not prime. 
+	Next check, if number is divisible by odd numbers.
+3. Check if number is divisible by 2, if yes , it is not prime. 
+	Next check, if number is divisible by odd numbers till square root of number.
+	
+	
+   
 
