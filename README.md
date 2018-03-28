@@ -1,6 +1,6 @@
 # Java Programming interview 
 
-FIBONACCI SERIES
+A FIBONACCI SERIES
 
 Sample Implementation of Fibonacci. Fibonacci Series is characterized by the fact that
 every number after the first two is the sum of the two preceding ones. two
@@ -14,7 +14,9 @@ Three implementations
 3. Using memoization.(Technique to improve speed of
    computation by storing complex calculation results)
    
-PRIME NUMBER
+
+
+B PRIME NUMBER
 
 Prime number is number which is only divisible by 1 and itself.
 eg : 2,3, 5, 7 , 11, ...
@@ -28,5 +30,10 @@ Implementation class : PrimeNumber.java
 	Next check, if number is divisible by odd numbers till square root of number.
 	
 	
-   
+C PALINDROME
+  
+  Palindrome is word, number which is same forward and backword.
+  eg 45654,abcba  is palindrome
+  eg 45655,abcbb is not palindorme
+
 
