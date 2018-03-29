@@ -1,0 +1,21 @@
+Docker commands - 
+
+Docker file Name : Dockerfile
+
+Build image
+docker build -t <imageName> .
+
+Starting Docker image on container.
+docker run -p 8081:8081 <imageName>
+
+
+Command to kill, remove containers and remove images.
+
+Stop all containers:
+docker kill $(docker ps -q)
+
+Remove all containers
+docker rm $(docker ps -a -q)
+
+Remove all docker images
+docker rmi $(docker images -q)
