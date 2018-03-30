@@ -55,23 +55,23 @@
                 <td>
                     Implementation class : PrimeNumber.java
                 </td>
-                <tr>
+                </tr>
                     <tr>
                         <td>
                             1. Check if number is divisible by each number from 2 to number -1;
                         </td>
-                        <tr>
+                        </tr>
                             <tr>
                                 <td>
                                     2. Check if number is divisible by 2, if yes , it is not prime. Next check, if number is divisible by odd numbers.
                                 </td>
-                                <tr>
+                                </tr>
                                     <tr>
                                         <td>
                                             3. Check if number is divisible by 2, if yes , it is not prime. Next check, if number is divisible by odd numbers till square root of number.
 
                                         </td>
-                                        <tr>
+                                        </tr>
         </table>
 
     </div>
