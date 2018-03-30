@@ -85,11 +85,13 @@
 
 
 
-
-        Palindrome is word, number which is same forward and backword. </br>
-        eg 45654,abcba is palindrome</br>
-        eg 45655,abcbb is not palindorme</br>
-
+	<p>
+        Palindrome is word, number which is same forward and backword. <br>
+        eg 45654,abcba is palindrome<br>
+        eg 45655,abcbb is not palindorme<br>
+        
+        Refer : Palindrome.java
+</p>
 
     </div>
 
