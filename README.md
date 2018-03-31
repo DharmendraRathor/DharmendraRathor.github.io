@@ -21,7 +21,7 @@ B PRIME NUMBER
 Prime number is number which is only divisible by 1 and itself.
 eg : 2,3, 5, 7 , 11, ...
 
-Implementation class : PrimeNumber.java
+Java Class :  PrimeNumber.java
 
 1. Check if number is divisible by each number from 2 to number -1;
 2. Check if number is divisible by 2, if yes , it is not prime. 
@@ -30,16 +30,24 @@ Implementation class : PrimeNumber.java
 	Next check, if number is divisible by odd numbers till square root of number.
 	
 	
+
 C PALINDROME
   
   Palindrome is word, number which is same forward and backword.
   eg 45654,abcba  is palindrome
   eg 45655,abcbb is not palindorme
   
+  Java Class :  Palindrome.java
   
   
-  
-  
+D AMSTRONG NUMBER
+	
+	Number is called AmstrongNumber if , if digit is equal to sum of cubes of
+	individual digits.  
+	
+	eg 153= 1+ 125+27  ( 1*1*1  + 5*5*5  + 3*3*3 )
+	
+  Java Class :  AmstrongNumber.java
   
   
   
