@@ -43,7 +43,7 @@ public class DuplicateInArray {
 	}
 
 	/**
-	 * Method time complexity = O(n) Method spaceComplexity = O(n2)
+	 * Method space complexity = O(1) Method time Complexity = O(n2)
 	 * 
 	 * @param numbers
 	 * @return
