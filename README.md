@@ -13,3 +13,5 @@
 &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p>HIGHEST FREQUNCY ELEMENT IN ARRAY&nbsp;&nbsp;</p>
 <p>Program to find highest frequency element in array using two approach with complexity O nlogn and O n .&nbsp;&nbsp;<br />Java file&nbsp; HighestfrequenceInArray.java&nbsp;</p>
+<p>UNIQUE CHAR IN STRING&nbsp;&nbsp;</p>
+<p>Program to find String has unique char or not .&nbsp;&nbsp;<br />Java file&nbsp; UnqiueCharInString.java&nbsp;</p>
