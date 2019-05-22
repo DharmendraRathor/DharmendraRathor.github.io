@@ -7,6 +7,7 @@
 <li><span style="color: #3366ff;">Duplicate element in Array</span> -&nbsp; Program to find duplicate element in array in O(n) time and fixed space complexity.&nbsp;&nbsp;</li>
 <li><span style="color: #3366ff;">Highest frequency element in array</span> - Program to find highest frequency element in array using two approach with complexity O nlogn and O n .&nbsp;&nbsp;</li>
 <li><span style="color: #3366ff;">Unique character in String</span>:&nbsp; Program to find String has unique char or not.</li>
+<li><span style="color: #3366ff;">  SetBitCount : Program to find count of set bit in positive integer.</li>
 </ul>
 <h4><span style="color: #008000;">TREES</span>&nbsp;</h4>
 <ul>
