@@ -1,4 +1,4 @@
-package com.dsr.java.experiments;
+package com.dsr.java.experiments.trees;
 
 import java.util.LinkedList;
 import java.util.List;

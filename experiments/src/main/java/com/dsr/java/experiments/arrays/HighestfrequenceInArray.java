@@ -1,4 +1,4 @@
-package com.dsr.java.experiments;
+package com.dsr.java.experiments.arrays;
 
 import java.util.Arrays;
 import java.util.HashMap;

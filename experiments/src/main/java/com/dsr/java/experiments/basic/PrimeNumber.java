@@ -1,4 +1,4 @@
-package com.dsr.java.experiments;
+package com.dsr.java.experiments.basic;
 
 /**
  * Prime number is number which is only divisible by 1 and itself.

@@ -1,4 +1,4 @@
-package com.dsr.java.experiments;
+package com.dsr.java.experiments.basic;
 
 /**
  * Number is called AmstrongNumber if , if digit is equal to sum of cubes of

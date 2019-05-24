@@ -1,4 +1,4 @@
-package com.dsr.java.experiments;
+package com.dsr.java.experiments.basic;
 
 /**
  * Palindrome is word, number which is same forward and backword.

@@ -1,4 +1,4 @@
-package com.dsr.java.experiments;
+package com.dsr.java.experiments.basic;
 
 import java.util.HashSet;
 import java.util.Set;

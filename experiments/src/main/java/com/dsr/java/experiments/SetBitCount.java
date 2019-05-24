@@ -1,7 +1,7 @@
 package com.dsr.java.experiments;
 
 /*
- * Program to find count of set bit in positive integer.
+ * SetBitCount : Program to find count of set bit in positive integer.
  */
 public class SetBitCount {
 

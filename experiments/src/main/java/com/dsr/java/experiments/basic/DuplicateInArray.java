@@ -1,4 +1,4 @@
-package com.dsr.java.experiments;
+package com.dsr.java.experiments.basic;
 
 /**
  * Program to find duplicate in array.

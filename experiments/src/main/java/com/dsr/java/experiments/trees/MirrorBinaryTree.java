@@ -1,4 +1,4 @@
-package com.dsr.java.experiments;
+package com.dsr.java.experiments.trees;
 
 public class MirrorBinaryTree {
 	Node root;
