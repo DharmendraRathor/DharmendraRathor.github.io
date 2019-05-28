@@ -2,8 +2,8 @@ package com.dsr.java.experiments.common;
 
 public class LinkNode<T> {
 	
-	private T data;
-	private LinkNode<T> next;
+	public T data;
+	public LinkNode<T> next;
 
 	public LinkNode(T in) {
 		this.data = in;
