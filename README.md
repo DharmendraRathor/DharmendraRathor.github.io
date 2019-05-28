@@ -14,7 +14,33 @@
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">Binary search Tree and Traversal</span></a>&nbsp;<span style="color: #000000;">- Creation of binary search tree and InOrder, PreOrder and PostOrder traversal.</span></li>
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">Mirror of Binary Tree</span></a> <span style="color: #000000;">- Code to create mirror of binary tree.</span></li>
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">RightView Binary tree</span></a> <span style="color: #000000;">- Using Queues and Level order traversal (BFT).</span></li>
+  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">ReverseLevelOrderTreeTraversal</span></a> <span style="color: #000000;">- Program to traverse level vise binary tree nodes in reverse order , starting from botton first .</span></li>
+  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">Height of Binary tree</span></a> <span style="color: #000000;">- Program to find height of binary tree .</span></li>
 </ul>
+<h4><span style="color: #008000;">LINK LIST </span>&nbsp;</h4>
+<ul>
+  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Middle element in Link List </span></a> <span style="color: #000000;">-Finding middle element in a linked list using two pointer approach.</span></li>
+</ul>
+
+<h4><span style="color: #008000;"> ARRAYS </span>&nbsp;</h4>
+<ul>
+  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Highest frequence In Array </span></a> <span style="color: #000000;">-Program to find element in array having highest frequency. Two approaches One
+ * with time complexity O(n log n) and other o(n).</span></li>
+  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Peek element in Array </span></a> <span style="color: #000000;">-Given an array A of integers. The task is to find a peak element in it.
+An array element is peak if it is not smaller than its neighbors. For corner elements, we need to consider only one neighbor.</span></li>
+  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> ReverseWordInString </span></a> <span style="color: #000000;">-Given a String of length N reverse each word in it. Words are separated by dots. 
+ "    Input : i.like.this.program.very.much   Output : i.ekil.siht.margorp.yrev.hcum " .</span></li>
+</ul>
+
+<h4><span style="color: #008000;">CUSTOM DATA STRUCTURE</span>&nbsp;</h4>
+<ul>
+  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">Queue Using Two Stacks</span></a> <span style="color: #000000;">-Implement a Queue using 2 stacks s1 and s2 .</span></li>
+<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">Special Stack</span></a>&nbsp;<span style="color: #000000;">- Design a data-structure SpecialStack (using the STL of stack) that supports all the stack operations like push(), pop(), isEmpty(), isFull() and anadditional operation getMin() which should return minimum element from the
+SpecialStack. Your task is to complete all the functions, using stack.</span></li>
+
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p>&nbsp;</p>
