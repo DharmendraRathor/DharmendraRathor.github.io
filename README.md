@@ -31,6 +31,12 @@
   <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Reverse list in group of given size </span></a> <span style="color: #000000;">-Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list.</span></li>
   <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Length of loop in link list </span></a> <span style="color: #000000;">- Program to find length of loop in link list.</span></li>
 </ul>
+<h4><span style="color: #008000;">STRINGS </span>&nbsp;</h4>
+<ul>
+<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Longest Palindromic subSequence </span></a> <span style="color: #000000;”>-Find length of longest palindromic sub sequence for given string.</span></li>
+<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Longest Palindromic subString </span></a> <span style="color: #000000;”>-Find length of longest palindromic sub strong for given string .</span></li>
+
+</ul>
 <h4><span style="color: #008000;"> ARRAYS </span>&nbsp;</h4>
 <ul>
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Highest frequence In Array </span></a> <span style="color: #000000;">-Program to find element in array having highest frequency. Two approaches One * with time complexity O(n log n) and other o(n).</span></li>
