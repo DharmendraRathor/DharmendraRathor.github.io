@@ -3,7 +3,9 @@ package com.dsr.java.experiments.linklist;
 import com.dsr.java.experiments.common.LinkNode;
 
 /**
+ * Reverse a Linked List in groups of given size.
  * 
+ * Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list.
  * @author dharmendra
  *
  */
