@@ -16,7 +16,7 @@
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">RightView Binary tree</span></a> <span style="color: #000000;">- Using Queues and Level order traversal (BFT).</span></li>
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">ReverseLevelOrderTreeTraversal</span></a> <span style="color: #000000;">- Program to traverse level vise binary tree nodes in reverse order , starting from botton first .</span></li>
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">Height of Binary tree</span></a> <span style="color: #000000;">- Program to find height of binary tree .</span></li>
-  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Sub Tree check </span></a> <span style="color: #000000;">- Program to check if tree is subtree of another tree.</span></li>
+<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Sub Tree check </span></a> <span style="color: #000000;">- Program to check if tree is subtree of another tree.</span></li>
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Binary tree to binary search tree </span></a> <span style="color: #000000;">- Program to convert binary tree to binary search tree.</span></li>
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Bottom view of binary tree </span></a> <span style="color: #000000;">- Program to display bottom view of binary tree.</span></li>
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Connect node at same level </span></a> <span style="color: #000000;">- Program to connect node at same level.</span></li>
@@ -26,16 +26,10 @@
 <h4><span style="color: #008000;">LINK LIST </span>&nbsp;</h4>
 <ul>
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Middle element in Link List </span></a> <span style="color: #000000;">-Finding middle element in a linked list using two pointer approach.</span></li>
-  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Remove Duplicate in List </span></a> <span style="color: #000000;">-Remove duplicate element from Linked List Given a singly linked list consisting of N nodes. The task is to remove duplicates (nodes with duplicate values) from the given list (if exists)..</span></li>
-  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Find Nth Element from End </span></a> <span style="color: #000000;">-Nth node from end of linked list. Given a linked list consisting of L nodes and given a number N. The task is to find the Nth node from the end of the linked list.</span></li>
-  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Reverse list in group of given size </span></a> <span style="color: #000000;">-Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list.</span></li>
-  <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Length of loop in link list </span></a> <span style="color: #000000;">- Program to find length of loop in link list.</span></li>
-</ul>
-<h4><span style="color: #008000;">STRINGS </span>&nbsp;</h4>
-<ul>
-<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Longest Palindromic subSequence </span></a> <span style="color: #000000;”>-Find length of longest palindromic sub sequence for given string.</span></li>
-<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Longest Palindromic subString </span></a> <span style="color: #000000;”>-Find length of longest palindromic sub strong for given string .</span></li>
-
+<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Remove Duplicate in List </span></a> <span style="color: #000000;">-Remove duplicate element from Linked List Given a singly linked list consisting of N nodes. The task is to remove duplicates (nodes with duplicate values) from the given list (if exists)..</span></li>
+<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Find Nth Element from End </span></a> <span style="color: #000000;">-Nth node from end of linked list. Given a linked list consisting of L nodes and given a number N. The task is to find the Nth node from the end of the linked list.</span></li>
+<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Reverse list in group of given size </span></a> <span style="color: #000000;">-Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list.</span></li>
+<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Length of loop in link list </span></a> <span style="color: #000000;">- Program to find length of loop in link list.</span></li>
 </ul>
 <h4><span style="color: #008000;"> ARRAYS </span>&nbsp;</h4>
 <ul>
@@ -47,6 +41,11 @@
 <ul>
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">Queue Using Two Stacks</span></a> <span style="color: #000000;">-Implement a Queue using 2 stacks s1 and s2 .</span></li>
 <li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;">Special Stack</span></a>&nbsp;<span style="color: #000000;">- Design a data-structure SpecialStack (using the STL of stack) that supports all the stack operations like push(), pop(), isEmpty(), isFull() and anadditional operation getMin() which should return minimum element from the SpecialStack. Your task is to complete all the functions, using stack.</span></li>
+</ul>
+<h4><span style="color: #008000;">STRINGS </span>&nbsp;</h4>
+<ul>
+<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Longest Palindromic subSequence </span></a> -Find length of longest palindromic sub sequence for given string.</li>
+<li><a href="https://github.com/DharmendraRathor/DharmendraRathor.github.io/tree/master/experiments/src/main/java/com/dsr/java/experiments"><span style="color: #3366ff;"> Longest Palindromic subString </span></a> -Find length of longest palindromic sub strong for given string .</li>
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
