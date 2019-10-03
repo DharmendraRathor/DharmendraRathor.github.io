@@ -1,3 +1,5 @@
+package com.dsr.java.experiments.strings;
+
 public class StringPermutation {
 
 	static void permutation(String str, String chosen) {
